@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://opensource-demo.orangehrmlive.com",
+  "path": "/web/index.php/auth/login",
+  "valid": { "username": "Admin", "password": "admin123" },
+  "wrongPass": { "username": "Admin", "password": "salah" },
+  "wrongUser": { "username": "BukanAdmin", "password": "admin123" }
+}
